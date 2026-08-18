@@ -5,24 +5,24 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/deibypineda-it/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "deibypineda24@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:deibypineda24@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
+🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)<br>
 
-🔐 Prácticas reales en ciberseguridad (Servidet): Samba, UFW, Fail2ban, backups automáticos, recuperación de datos
+🔐 Prácticas reales en ciberseguridad (Servidet): Samba, UFW, Fail2ban, backups automáticos, recuperación de datos<br>
 
-🖥️ Experiencia en Windows Server 2022: AD, DNS, DHCP, dominio, GPO, multi‑VM
+🖥️ Experiencia en Windows Server 2022: AD, DNS, DHCP, dominio, GPO, multi‑VM<br>
 
-🐧 Linux lover: Bash, permisos, servicios, logs, automatización
+🐧 Linux lover: Bash, permisos, servicios, logs, automatización<br>
 
-🐍 Aprendiendo Python para scripting y automatización
+🐍 Aprendiendo Python para scripting y automatización<br>
 
-🎯 Buscando mi primer puesto IT 
+🎯 Buscando mi primer puesto IT <br>
 
 📫 Contacto: **deibypineda24@gmail.com**
 <!--Intro end-->
