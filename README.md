@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Administrador+de+Sistemas+en+formación....;Buscando+mi+primer+puesto+IT)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Administrador+de+Sistemas....;Buscando+mi+primer+puesto+IT)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hola 👋  soy Deiby / Sysadmin Junior ✨ </h1> 
