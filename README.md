@@ -37,7 +37,7 @@ soy Deiby / Sysadmin Junior ✨ </h1>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,github,docker,azure,sql-server,bash,powershell,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,github,docker,azure,microsoftsqlserver,bash,powershell,linux&perline=12" />
   </a>
 </p>
 <br>
