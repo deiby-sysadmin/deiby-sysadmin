@@ -15,7 +15,7 @@ soy Deiby / Sysadmin Junior ✨</h1>
 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)<br>
 🔐 Prácticas reales en ciberseguridad (Servidet): Samba, UFW, Fail2ban, backups automáticos, recuperación de datos<br>
 🖥️ Experiencia en Windows Server 2022: AD, DNS, DHCP, dominio, GPO, multi-VM<br>
-🐧 Linux lover: Bash, permisos, servicios, logs, automatización<br>
+🐧 Linux: Bash, permisos, servicios, logs, automatización<br>
 🐍 Aprendiendo Python para scripting y automatización<br>
 ☁️ Administrador de Microsoft Azure: VMs, VNet/NSG, App Service, Functions, Storage y Entra ID<br>
 🌱 Buscando mi primer puesto IT L2 (soporte / administración de sistemas)
@@ -105,10 +105,6 @@ Incluye:
 
 <br>
 
-<h2>📊 Estadísticas de GitHub</h2>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=deiby-sysadmin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="deiby-sysadmin stats" />
-</p>
 
 
