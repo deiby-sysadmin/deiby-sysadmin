@@ -27,7 +27,7 @@ soy Deiby / Sysadmin Junior ✨</h1>
 
 <p align="left">
 
-<a href="https://github.com/deiby-sysadmin/Azure-Lab" target="_blank">
+<a href="https://github.com/deiby-sysadmin/Azure-Lab." target="_blank">
   <img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </a>
 
