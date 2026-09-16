@@ -1,7 +1,8 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&lines=Administrador+de+Sistemas+Informaticos....;En+Desarrollo+Constante)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hola 👋  soy Deiby / Sysadmin Junior ✨ </h1> 
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRCLFzcasrR4ia7z/giphy.gif" width="35">
+  soy Deiby / Sysadmin Junior ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/deibypineda-it/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
