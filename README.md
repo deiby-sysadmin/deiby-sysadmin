@@ -27,7 +27,22 @@ soy Deiby / Sysadmin Junior ✨</h1>
 
 <p align="left">
 
-<!-- Azure -->
+<!-- BOTONES DE ACCESO DIRECTO -->
+<a href="https://github.com/deiby-sysadmin/Azure-Lab." target="_blank">
+  <img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a>
+
+<a href="https://github.com/deiby-sysadmin/Linux-Server-Cliente-Windows" target="_blank">
+  <img src="https://img.shields.io/badge/Linux_&_Windows_Server-000000?style=for-the-badge&logo=linux&logoColor=white">
+</a>
+
+<a href="https://github.com/deiby-sysadmin/Windows-Server-Lab" target="_blank">
+  <img src="https://img.shields.io/badge/Windows_Server_Lab-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+
+<br><br><br>
+
+<!-- BLOQUE AZURE -->
 💻 <b><a href="https://github.com/deiby-sysadmin/Azure-Lab.">Azure Sysadmin Labs</a></b> — Repositorio con 8 módulos documentados paso a paso sobre administración de Microsoft Azure y Microsoft Entra ID.
 <br><br>
 Incluye:
@@ -40,12 +55,12 @@ Incluye:
 &nbsp;&nbsp;✅ Cost Management, presupuestos y alertas
 <br><br><br>
 
-<!-- Linux -->
+<!-- BLOQUE LINUX -->
 💻 <b><a href="https://github.com/deiby-sysadmin/Linux-Server-Cliente-Windows">Servidor Linux — Administración y Ciberseguridad</a></b> — Entorno técnico documentado para administración de sistemas Linux y seguridad operativa.
 <br><br>
 Incluye:
 <br>
-&nbsp;&nbsp;✅ Configuración completa del servidor y servicios<br>
+&nbsp;&nbsp;✅ Configuración completa del servidor, clientes Windows y servicios<br>
 &nbsp;&nbsp;✅ Gestión de usuarios, permisos y políticas de acceso<br>
 &nbsp;&nbsp;✅ Recursos compartidos y control de privilegios<br>
 &nbsp;&nbsp;✅ Endurecimiento de sistemas Linux y Windows<br>
@@ -55,7 +70,7 @@ Incluye:
 &nbsp;&nbsp;✅ Procedimientos formales y documentación operativa
 <br><br><br>
 
-<!-- Windows Server -->
+<!-- BLOQUE WINDOWS SERVER -->
 💻 <b><a href="https://github.com/deiby-sysadmin/Windows-Server-Lab">Laboratorio Windows Server 2022</a></b> — Entorno completo de administración de sistemas Windows Server documentado paso a paso.
 <br><br>
 Incluye:
@@ -73,6 +88,7 @@ Incluye:
 <br>
 
 📬 Contacto: **deibypineda24@gmail.com**
+
 
 
 
