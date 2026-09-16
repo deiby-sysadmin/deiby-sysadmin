@@ -42,7 +42,7 @@ soy Deiby / Sysadmin Junior ✨</h1>
 
 <br><br>
 
-🎯 <b><a href="https://github.com/deiby-sysadmin/Azure-Lab">Azure Sysadmin Labs</a></b> — Repositorio con 8 módulos documentados paso a paso sobre administración de Microsoft Azure y Microsoft Entra ID.
+🎯 <b><a href="https://github.com/deiby-sysadmin/Azure-Lab.">Azure Sysadmin Labs</a></b> — Repositorio con 8 módulos documentados paso a paso sobre administración de Microsoft Azure y Microsoft Entra ID.
 <br><br>
 Incluye:
 <br>
