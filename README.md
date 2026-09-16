@@ -1,11 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&Center=true&width=600&lines=Administrador+de+Sistemas+Informaticos...;Sysadmin+Junior+%7C+Azure+%26+Entra+ID;En+Desarrollo+Constante)
 
-<h1 align="center">Hola 👋 soy Deiby / Sysadmin Junior ✨</h1>
+<h1 align="center">Hola 
+<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/waving-hand-emoji.gif" width="35">
+soy Deiby / Sysadmin Junior ✨</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/deibypineda-it/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="mailto:deibypineda24@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/deiby-sysadmin/Azure-Lab" target="_blank"><img align="center" src="https://img.shields.io/badge/Portafolio_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Portafolio Azure"/></a>
 </p>
 
 <h2>Sobre mí 😄</h2>
@@ -26,7 +27,6 @@
 
 <p align="left">
 
-<!-- Botones estilo portafolio -->
 <a href="https://github.com/deiby-sysadmin/Azure-Lab" target="_blank">
   <img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </a>
@@ -37,10 +37,6 @@
 
 <a href="https://github.com/deiby-sysadmin/Windows-Server-Lab" target="_blank">
   <img src="https://img.shields.io/badge/Windows_Server_Lab-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
-<a href="https://github.com/deiby-sysadmin/deiby-sysadmin" target="_blank">
-  <img src="https://img.shields.io/badge/Perfil_Sysadmin-4B8BBE?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -60,6 +56,7 @@ Incluye:
 <br>
 
 📬 Contacto: **deibypineda24@gmail.com**
+
 
 
 <br>
