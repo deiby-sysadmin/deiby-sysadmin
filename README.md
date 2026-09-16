@@ -25,6 +25,26 @@
 <h2>📌 Portafolio técnico</h2>
 
 <p align="left">
+
+<!-- Botones estilo portafolio -->
+<a href="https://github.com/deiby-sysadmin/Azure-Lab" target="_blank">
+  <img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</a>
+
+<a href="https://github.com/deiby-sysadmin/Linux-Server-Cliente-Windows" target="_blank">
+  <img src="https://img.shields.io/badge/Linux_&_Windows_Server-000000?style=for-the-badge&logo=linux&logoColor=white">
+</a>
+
+<a href="https://github.com/deiby-sysadmin/Windows-Server-Lab" target="_blank">
+  <img src="https://img.shields.io/badge/Windows_Server_Lab-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+
+<a href="https://github.com/deiby-sysadmin/deiby-sysadmin" target="_blank">
+  <img src="https://img.shields.io/badge/Perfil_Sysadmin-4B8BBE?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
 🎯 <b><a href="https://github.com/deiby-sysadmin/Azure-Lab">Azure Sysadmin Labs</a></b> — Repositorio con 8 módulos documentados paso a paso sobre administración de Microsoft Azure y Microsoft Entra ID.
 <br><br>
 Incluye:
@@ -40,6 +60,7 @@ Incluye:
 <br>
 
 📬 Contacto: **deibypineda24@gmail.com**
+
 
 <br>
 
